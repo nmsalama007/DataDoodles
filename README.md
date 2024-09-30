@@ -1,9 +1,7 @@
 1. **[Data Science Portfolio Project: Prison Break](https://gist.github.com/nmsalama007/81a0804d36646772885f1874af0d3d3b)**
-<script src="https://gist.github.com/nmsalama007/81a0804d36646772885f1874af0d3d3b.js"></script>
-
 
 About this project
-I will be working with a dataset of helicopter prison escapes that I got off Wikipedia (The link is embedded within the word).
+I will be working with a dataset of helicopter prison escapes that I got off Wikipedia .
 
 We have six columns of data found on the website, which are all self-descriptive. In this project, we'll answer the following questions:
 
