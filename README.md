@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me:
 - 💬 **Ask me about**: Data Analysis, Business Intelligence, Bioinformatics  
 - 📫 **Reach me at**: [nabilmohsalama@gmail.com](mailto:nabilmohsalama@gmail.com) | **+20 1147590087**  
-- ⚡ **Fun fact**: I'm passionate about transforming data into actionable insights!  
+- ⚡ **Fun fact**: You can’t hum while holding your nose 😜  
 
 ---
 
