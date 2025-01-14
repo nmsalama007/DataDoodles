@@ -10,7 +10,7 @@ Additionally, the **Management Team** is interested in understanding the **reaso
 - **Understand Reasons for Contact**: Analyze call reasons to improve the customer service experience.
 
 ## Data Source
-- Inbound Call Data for a **Top Telecom Client** obviously its their data *wink* *wink*.
+- Inbound Call Data for a **Top Telecom Client** (obviously its their data *wink* *wink*).
 
 ## Next Steps:
 - Explore data to identify key factors driving High AHT and Hold Usage.
