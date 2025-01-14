@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Nabil Salama</h1>
-<h3 align="center">This repo is more than just a collection of case studies—it's the story of my journey as an aspiring data analyst. Within this file and the other, you’ll find the projects I've poured my time, energy, and passion into. Some of these projects were born from interviews that didn’t go as planned, but every one of them taught me invaluable lessons about problem-solving, and resilience.</h3>
+<h3 align="center">This repo is more than just a collection of case studies; it's the story of my journey as an aspiring data analyst. Within this file and the other, you’ll find the projects I've poured my time, energy, and passion into. Some of these projects were born from interviews that didn’t go as planned, but every one of them taught me invaluable lessons about problem-solving, and resilience.</h3>
 <h3 align="center">Take a look, dig into the data, and join me in this journey of growth. Every project here is a testament to my commitment to learning, and my belief that with the right tools and mindset, success is inevitable.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
