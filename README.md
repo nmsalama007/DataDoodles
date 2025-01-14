@@ -1,5 +1,5 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-<h1 align="center">Hi 👋, I'm Nabil Salama</h1>
+<h1 align="center">Hi, I'm Nabil Salama</h1>
 <h3 align="center">This repo is more than just a collection of case studies; it's the story of my journey as an aspiring data analyst. Within this file and the other, you’ll find the projects I've poured my time, energy, and passion into. Some of these projects were born from interviews that didn’t go as planned, but every one of them taught me invaluable lessons about problem-solving, and resilience.</h3>
 <h3 align="center">Take a look, dig into the data, and join me in this journey of growth. Every project here is a testament to my commitment to learning, and my belief that with the right tools and mindset, success is inevitable.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
@@ -46,17 +46,21 @@
 **WATCH IT** · *Cairo, Egypt*  
 **May 2023 - Present**
 
-- Led analysis of user behavior, increasing viewer engagement by 33%.
-- Improved KPI tracking accuracy by 30%, empowering teams with insights.
-- Boosted content popularity by 15% through viewership analysis.
-- Collaborated on marketing campaigns, leading to a 71% increase in subscription conversions.
+- Spearheaded the in-depth analysis of user behavior and platform performance, resulting in a 33% increase in viewer engagement through optimized content delivery.
+- Successfully developed and maintained reports and dashboards, improving the accuracy of KPIs tracking empowering cross-functional teams with actionable insight
+- Boosted content performance by conducting detailed viewership analysis and demographic studies, contributing to a 15% increase in content popularity across key demographics.
+- Enhanced data accuracy and reliability by implementing rigorous data validation processes, reducing reporting errors in collaboration with the app development team.
+- Delivered comprehensive presentations and data visualizations, enabling faster decision-making for both technical and non-technical stakeholders, directly impacting business strategy.
+- Resulted in a 71% increase in conversions by enhancing the user journey.
+- Conducted competitive intelligence and market research, providing insights that directly influenced the development of new market entry strategies, which contributed to a 25% growth in audience reach.
 
 ## 🧑‍🔬 Research Assistant  
 **Ain Shams Center of Genetic Engineering and Biotechnology**  
 **Dec 2020 - Jan 2023**
 
-- Analyzed genetic and proteomic data, supporting research and publications.
-- Contributed to identifying new therapeutic targets.
+- Conducted comprehensive analysis of biological genetic and proteomic data using advanced bioinformatics techniques, uncovering critical patterns Completed in-depth literature reviews, synthesizing key research findings to support two published papers and a book chapter in prominent scientific journals.
+- Analyzed proteomic data to explore the influence of effector proteins in fungal interactions, which resulted in identifying
+new potential targets for therapeutic interventions.
 
 ## 👨‍🏫 Trainer Assistant  
 **In-Silico Drug Design Course**  
@@ -65,6 +69,7 @@
 ---
 
 ## 🛠️ Technical Skills
+
 
 ### 🖥️ Data Analysis & Business Intelligence
 - Power BI
@@ -85,14 +90,3 @@
 ---
 
 <br>
-
-# 🌟 Recent Projects
-
-## 🎥 **User Behavior Analysis for Video Platform**
-- Conducted detailed viewership analysis, increasing engagement on the platform.
-
-## 📊 **KPI Tracking Dashboard**
-- Developed dashboards to monitor KPIs, improving decision-making for teams.
-
-## 🧬 **Bioinformatics Research**
-- Analyzed proteomic data, contributing to published research on fungal interactions.
