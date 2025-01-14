@@ -12,10 +12,8 @@
 
 ### 👨‍💻 About Me:
 - 💬 **Ask me about**: Data Analysis, Business Intelligence, Bioinformatics  
-- 📫 **Reach me at**: [nabilmohsalama@gmail.com](mailto:nabilmohsalama@gmail.com) | **+20 1147590087**  
+- 📫 **Reach me at**: [nabilmohsalama@gmail.com](mailto:nabilmohsalama@gmail.com) | **+201147590087**  
 - ⚡ **Fun fact**: You can’t hum while holding your nose 😜  
-
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -66,6 +64,8 @@ new potential targets for therapeutic interventions.
 **In-Silico Drug Design Course**  
 **Ain Shams University** · Oct 2021
 
+- Managed and maintained comprehensive records of all training tasks, ensuring 100% accuracy in documentation and seamless coordination with the course instructor.
+- Provided timely assistance and guidance to students, effectively addressing individual queries and fostering a deeper understanding of in-silico drug design concepts.
 ---
 
 ## 🛠️ Technical Skills
